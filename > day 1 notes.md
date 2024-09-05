@@ -46,6 +46,10 @@
 
 #### National Security Act of 1947
 * Created the National Military Establishment (a DOD precursor)
+* made to rectify disjointedness
+* provisions werent effectively implementedn so the military departments retained a de facto role in the chain of command and didnt comply 
+  with the provision of trengthening the unified commanders
+* strengthened the secretary of defenses, and the JCS
 
 #### Legislated revisions to the National Security Act in 1949, 1953, and 1958 attempted to mend these deficiencies, particularly by:
 * Strengthening the SECDEF
@@ -69,7 +73,10 @@
 * Interaction of the services
 * Personnel Management
 * Share procurment
-
+* admiral William Crowe was appointed as charman of joint chief of staff (CJCS)
+* STARTED PRECIPICE TO WHAT THE DOD LOOKS LIKE TODAY
+* JCS AND CJCS ARE REMOVED FROM OPCON
+  
 #### Command and Control
 * Supported Commander (The Guy in charge)
 * Supporting Commander (Control who what when and how)
@@ -82,17 +89,20 @@
 * Coordinating Authority
 * Direct Liaison Authorized
 
-#### Forces
-* SECDEF assigns
-* SECDEF allocates
-* SECDEF apportions
+#### Global Frce Management/Forces
+* database for strategic C2 AND strategic posture
+* SECDEF assigns      TROOPS
+* SECDEF allocates    TROOPS
+* SECDEF apportions   TROOPS
 
 #### Unified Commands
 * Joint Commands are established by missions and responsibilities often based on either a geographic AOR or functions
 * CCDR's forces can operate wherever they are required to accomplish missions
 
 #### Combatant Commands with functional focus
-* Offutt air force base in bellbue, nebraska
+* USSTRATCOM LOCATION: Offutt air force base in bellbue, nebraska
+  
+### 436 federal agencies
 
 #### The national archives federal register lists 436 federal agencies, each with their own culture, processes, tactics, techniques, and procedures
 
@@ -101,6 +111,8 @@ Title 22 (Foreign Relatations)
 Title 50 (Foreign intel and covert action)
 
 #### JFC's Operational Environment is the composite of the conditions, circumstances, and influences that affect empoyment of capabilities and bear on the decisions of the commander.
+
+## joint ops are joint units while joint forces are countries
 
 #### The competition Continuum
 * Cooperation
@@ -113,6 +125,7 @@ Title 50 (Foreign intel and covert action)
 * Tactical
 
 #### Information Environment Defined
+* the aggregate of social culteral and psychological technical and physical factors that affect how humans and systems drive meaning from info
 * Informational aspects (How groups communicate with eachother)
 * Physical aspects (Material Characteristics)
 * Human aspects (Interactions)
