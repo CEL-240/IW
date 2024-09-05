@@ -93,32 +93,8 @@
 #### CNMF National Mission Teams
 * Focus on specific threats that pose a significant threat to the Department of Defense information network
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### Kahoot Codes
 ```
 08394071
 06691835
 ```
-
-
-
-
-
