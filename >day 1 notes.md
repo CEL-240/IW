@@ -1,36 +1,44 @@
 #### 5 Operational Domains
-* Space    above the altitude where atmospheric objects become negligible/ at or greater than 100km above sea level
+* Space    above the altitude where atmospheric objects become negligible
 * Air      the atmosphere
 * Land
 * Sea
 * Cyber
-#### Area surrounding earth is greater than 100 kilometers above mean sea level
+#### Area surrounding earth is greater than or at 100 kilometers above mean sea level is space
+
+#### access can be gained through any physical, optical or wired access
 
 #### Layers of Cyberspace
 * Physical - Hardware (Router, Computers, Switches)
-* Logical - Software
-* Cyber-Persona - Open source Intel, Social Engineering
+* Logical - Software, routing tables, MAC addresses
+* Cyber-Persona - Open source Intel, Social Engineering (how you appear on the cyber network)
 
 #### Joint All-Domain Operations Concept
 * Provides Commanders numerous options for simultaneuos and sequential operations
 * Uses suprise and rapid and continuous integration of capabilities across all domains
 * Present multiple dilemmas to an adversary
 * Gain physical and psychological advantages
-
+* gain influence and control over the operational environment
+* JADO2
+  
 #### MDEB Conducts:
 * Intelligence collection and analysis
 * Supports Information environment operations
 * Performs offensive and defensive cyberspace actions
 * Employs EW and Space
 * Integrates civil affairs and psychological operations and capabilities
+**** supports targeting efforts by providing near real-time SIGINT,GEOINT,OSINT and target acquisition products 
+
+## MEF information group
+*employs capabilities for info env ops to esure MAGTF commanders ability to facilitate friendly manuevers 
 
 #### Expeditionary advanced base operations
-* Stand in forces
-* Mobility
-* Persistence
-* Low Signature
+* Stand in forces - during armed conflict, give the enemy the chance to expose himself to the capabilities of the armed forces
+* Mobility 
+* Persistence - moving with high flexibility in areas of key maritime terrain
+* Low Signature - managing physical and EMS sigs
 * Integrated Naval Forces
-* Cost Effective
+* Cost Effective - EABO i cost effective and undermines a potential adversary
 
 #### United States entered WWII incapable of coordinating land, sea, and air activities across its two military departments (War and Navy)
 
@@ -138,6 +146,10 @@ A: 02294949
 https://kahoot.it/
 
 
+## MDTF
+* forward formations able to execute aspects of Multi domain ops
+* operate across all domains in both competition and conflict
+* during competition it is forward deployed to an AOR to conduct activities in an operational prep of the environment
 
 
 
