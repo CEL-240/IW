@@ -1,6 +1,6 @@
 #### 5 Operational Domains
-* Space
-* Air
+* Space    above the altitude where atmospheric objects become negligible/ at or greater than 100km above sea level
+* Air      the atmosphere
 * Land
 * Sea
 * Cyber
