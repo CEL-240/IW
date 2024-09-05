@@ -40,7 +40,7 @@
 * Integrated Naval Forces
 * Cost Effective - EABO i cost effective and undermines a potential adversary
 
-#### United States entered WWII incapable of coordinating land, sea, and air activities across its two military departments (War and Navy)
+#### 1942 United States entered WWII incapable of coordinating land, sea, and air activities across its two military departments (War and Navy)
 
 #### In 1942 FDR created the Joint Chiefs of Staff (JCS)
 
