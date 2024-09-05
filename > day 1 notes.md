@@ -140,15 +140,29 @@ Title 50 (Foreign intel and covert action)
 * Interactions among and between people and the environment that shape human behavior and decision making. thos interactions are based upon the linguistic, social, cultural, psychological, and physical elements
 
 #### Introduction to operations in the information environment
-* Information Advantage
-* Informational Power
+* Information Advantage - ability to leverage information and plan with it 
+* Informational Power - gain and maintain an informational advantage
 * The elevation of information as a joint function impacts all operations and signals a fundemental appreciation for the military role of information at the strategic, operational, and tactical levels within todays complex OE
 
 #### Organizing for OIE
 * Information forces, the building blocks of OIE units, are those active component and reserver component forces specifically organized, trained, and equipped to create and/or suppport the creation of effects on the IE.
 
 #### Interagency in OIE
-* Effective integration of the appororiate US government organizatinos will enhance the overall success of joint force operations. there are a multitude of organizations inside and outside DOD
+* Effective integration of the appororiate US government organizations will enhance the overall success of joint force operations. there are a multitude of organizations inside and outside DOD
+
+## public affairs
+* focus on the OIE core activity to inform domestic international and internal audiences
+
+## military information support operations
+* informatin control
+
+## JEMSO 
+* joint electromagnetic spectrum
+
+## key leader engagement 
+* building and using relationships to the point of effective military engagement and influence which takes time
+
+
 
 #### QUIZLET CODES
 ```
@@ -163,13 +177,3 @@ https://kahoot.it/
 * forward formations able to execute aspects of Multi domain ops
 * operate across all domains in both competition and conflict
 * during competition it is forward deployed to an AOR to conduct activities in an operational prep of the environment
-
-
-
-
-
-
-
-
-
-
