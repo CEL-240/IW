@@ -88,12 +88,13 @@
 * Defensive Operations
 * Reconstitution
 * Resilience
+* Use links and nodes located in the physical domain and perform logical fun
 * Detterence
   
 #### Cyberspace Operations
 * Use links and nodes located in the physical domain and perform logical functions to create effects first in the cyberspace
   
-#### DODIN Operations mission (Secure, maintain, configure, operate, extend, maintain, and sustain)
+#### DODIN Operations mission (Secure, maintain, configure, operate, extend, maintain, and sustain DOD cyberspace)
 
 #### Cyberspace Exploitation
 * Intelligence, Surveillance and Recon
@@ -103,8 +104,9 @@
 
 #### Components of DCO
 * DCO-IDM (internal defense measures)
-* DCO-RA (response actions)
+* DCO-RA (response actions) **does things without permission of system owner 
 
+### there is no stateless maneuver in cyberspace
 #### Defensive Cyberspace Actions
 * Defence
 * Security
@@ -123,3 +125,26 @@
 08394071
 06691835
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ythotha, Ahwassa, Yolona Oss, Fatboy, Mavor, Atlantis, Novax Sattellite, Novax Center, Megalith, Monkeylord, Scathis, SoulRipper, Galactic Collossus, Tempest, Salvation, Paragon, Czar, 
