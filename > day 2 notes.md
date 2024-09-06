@@ -128,14 +128,18 @@
 
 defend the odidn: organize,secure,operate,defend,partner
 
+law of war is applicable to the united states 
 
+jus ad bellum: principle of justifacation in the law of armed conflict
+jus ad bello: control, synonymous with international humanitarian law (IHL)
 
+IHL is intended t protect victims of armed conflict which is why jus ad bello/um must remain in use and in dependant
 
+the principle of distinction is sometimes called discrimination 
 
+SOTA allows USCYBERCOM and the CMF the flexibility and capability to conduct SIGINT development (SIGDEV)
 
-
-
-
+NMTs (national mission team) are prepared to defend the nation in response to foreign hostile action or imminent threat in cyberspace
 
 
 
