@@ -126,7 +126,7 @@
 06691835
 ```
 
-
+defend the odidn: organize,secure,operate,defend,partner
 
 
 
