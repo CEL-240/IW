@@ -7,6 +7,7 @@
   
 #### Joint electromagnetic spectrum
 * Military actions undertaken by a joint force to exploit, attack, protect and manage the electromagnetic environment
+  
 #### JEMSO-Related Mission Areas
 * Cyberspace Operations
 * Space Operations
@@ -21,7 +22,7 @@
 * Constrained
   
 #### Electromagnetic environment
-* EMS portion of the environment where military operations are executed. The recognized need for military forces to have unimpeeded acces to, and use of, the EME
+* EMS portion of the information environment where military operations are executed. The recognized need for military forces to have unimpeeded acces to, and use of, the EME
 * Electomagnetic Attack
 * Electromagnetic Protection (Controls EM energy without significantly degrading the operation of friendly systems)
 * Electromagnetic Support
